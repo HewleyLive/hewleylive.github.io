@@ -1,0 +1,26 @@
+# Site settings
+title: Hewley
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  Hewley, your premier destination for IT consultancy services specializing in software development and DevOps solutions. With a keen understanding of technology's evolving landscape, our seasoned professionals are dedicated to crafting bespoke software solutions tailored to your business objectives.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.hewley.co.uk" # the base hostname & protocol for your site
+
+# User setting
+owner:
+email:
+facebook_username:
+twitter_username:
+github_username:
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
